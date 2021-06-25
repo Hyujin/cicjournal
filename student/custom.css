@@ -1,0 +1,62 @@
+#like, #unlike{
+  opacity: .8;
+}
+
+#like:hover, #unlike:hover{
+  opacity: 1;
+}
+
+#circle{
+  text-align: center;
+}
+
+#circle img{
+  border: 3px solid white;
+  /* border-top: 6px solid rgb(248, 249, 252); */
+  /* border-left: 8px solid rgb(248, 249, 252); */
+  /* border-right: 8px solid rgb(248, 249, 252); */
+  margin-top: -140px;
+  width:250px;
+  height:250px;
+  object-fit: cover;
+}
+
+.icon_img{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+#circle #full_name{
+  margin-top: 2%;
+}
+
+#edit_form{
+  display:none;
+}
+
+#edit_prof_pic{
+  margin-top: -20px;
+}
+
+#edit_prof_pic:active{
+  background-color: rgb(248, 249, 252);
+}
+
+#cam_icon{
+  background-color: rgb(46, 47, 45);
+  padding-top: 7px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+#cam_icon:hover{
+  background-color: grey;
+}
+
+#img_thumbnail{
+  object-fit: contain;
+  width: 400px;
+  height: 400px;
+}
