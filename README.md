@@ -1,13 +1,11 @@
 # cicjournal
 
-Use
-Admin
+For the final copy of this repository project, you may visit http://cic-journal.herokuapp.com/
+
+Use Admin Credential
 ID: 2016-00361
 Password: 1234
-
 to login
-
-For the final copy of this repository project, you may visit http://cic-journal.herokuapp.com/
 
 This is a Journal Portal project for the University of Southeastern Philippines (USeP) College of Information and Computing (CIC) developed by USeP interns  whose names are as follow: 
 
